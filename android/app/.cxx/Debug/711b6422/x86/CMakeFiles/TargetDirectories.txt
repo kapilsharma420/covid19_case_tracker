@@ -1,0 +1,2 @@
+C:/Users/bhard/Desktop/flutter2nd/covid19_case_tracker/android/app/.cxx/Debug/711b6422/x86/CMakeFiles/edit_cache.dir
+C:/Users/bhard/Desktop/flutter2nd/covid19_case_tracker/android/app/.cxx/Debug/711b6422/x86/CMakeFiles/rebuild_cache.dir
